@@ -108,7 +108,6 @@ This warning is **expected and harmless** for this problem because the output is
 
 * ✅ Problem 1: One
 * ✅ Problem 2: Zero
-* Total Problems Solved (as shown): **23**
 
 ---
 
