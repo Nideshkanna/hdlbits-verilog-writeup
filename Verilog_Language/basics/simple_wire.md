@@ -71,8 +71,11 @@ endmodule
 ## ⚠️ Common Mistakes
 
 ❌ Forgetting `assign`
+
 ❌ Using `always` block (unnecessary here)
+
 ❌ Declaring `out` as `reg`
+
 ❌ Swapping LHS and RHS
 
 ---
@@ -96,6 +99,3 @@ From the timing diagram:
 This is the **foundation** for everything that follows in HDLBits.
 
 ---
-
-
-Say the next file name and we’ll keep rolling 🚀
