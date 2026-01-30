@@ -70,6 +70,8 @@ endmodule
 
 ---
 
+<img width="1366" height="657" alt="Screenshot from 2026-01-30 09-41-44" src="https://github.com/user-attachments/assets/dfacb760-509f-42b6-b0b1-308f39063ce5" />
+
 ## 🔍 Explanation
 
 * Each `assign` creates a **continuous connection**
