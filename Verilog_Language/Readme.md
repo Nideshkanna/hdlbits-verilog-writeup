@@ -17,7 +17,7 @@ Each HDLBits problem has:
 ## 📂 Folder Structure
 
 ```
-verilog/
+Verilog_Language/
 ├── README.md          # This file
 ├── basics/
 ├── vectors/
